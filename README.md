@@ -7,6 +7,9 @@
 </h1>
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Teleram Badge"/>
+  <a href="https://t.me/queenofbottom">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Teleram Badge"/>
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=79152942677&text&type=phone_number&app_absent=0">
   <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge"/>
 </div>
