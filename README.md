@@ -24,5 +24,4 @@ An advertising strategist who dreams of becoming a data analyst
 ### My projects:
 | Project name  | Project Description | Stack|
 | ------------- | ------------------- |- |
-| Email Quality Analytics  | Content Cell        | pandas, numpy, seaborn, matplotlib, plotly, scipy|
-| Content Cell  | Content Cell        |    |
+| Email Quality Analytics  | Calculation and visualization of key metrics of email mailing success and database churn dynamics. Hypothesis testing, analysis of A/B test results        | pandas, numpy, seaborn, matplotlib, plotly, scipy|
